@@ -1,0 +1,15 @@
+h1, h3 {
+	font-family: 'Courier New;', serif, bold;
+}
+p, .lead {
+	font-family: 'Georgia', sans-serif, bold;
+}
+button {
+	margin-left: 5px;
+}
+.fixed-bottom {
+	margin-left: 10px;
+	margin-top: 30px;
+	padding: 5px;
+	text-align: center;
+}
